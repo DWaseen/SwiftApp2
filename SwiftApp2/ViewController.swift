@@ -3,7 +3,7 @@
 //  SwiftApp2
 //
 //  Created by Dan Waseen on 12/28/17.
-//  Copyright © 2017 RevWon. All rights reserved.
+//  Copyright © 2017 RevWon. All rights reserved...
 //
 
 import UIKit
